@@ -19,8 +19,6 @@ Contributing
 [guidelines]: .github/CONTRIBUTING.rst
 [getting-started]: https://in-junction.readthedocs.io/en/latest/development/getting-started.html
 
-
-
 <p><strong>To setup this on your local system. Follow the steps: </strong></p>
 <p>To start with you have to setup docker on your local system. For that you need docker-compose to be installed on your system.</p>
 <code>brew install docker-compose</code> for mac<br>
